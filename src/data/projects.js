@@ -1,11 +1,11 @@
 export const projects = [
   {
     id: 1,
-    title: "Task Management App",
+    title: "Portfolio website",
     description:
-      "Collaborative task management with real-time updates and team features.",
+      "A personal portfolio website showcasing projects and skills with smooth scrolling and responsive design.",
     image: "/images/portfilo.png",
-    tags: ["React", "Firebase", "Tailwind"],
+    tags: ["React", "Tailwind"],
     link: "https://github.com",
     demo: "https://portfolio-project-ths6.vercel.app/",
     featured: true,
@@ -13,11 +13,11 @@ export const projects = [
   },
   {
     id: 2,
-    title: "Analytics Dashboard",
+    title: "Real estate",
     description:
-      "Interactive analytics with data visualization and real-time metrics.",
+      "A modern real estate platform featuring property listings, search filters, and detailed property information.",
     image: "/images/project_4.png",
-    tags: ["React", "Chart.js", "API"],
+    tags: ["React", "Tailwind"],
     link: "https://github.com",
     demo: "https://real-eastate-one.vercel.app/",
     featured: false,
@@ -25,75 +25,25 @@ export const projects = [
   },
   {
     id: 3,
-    title: "E-Commerce Platform",
+    title: "Agency Platform",
     description:
-      "Full-stack e-commerce with payment integration and real-time inventory management.",
+      "A comprehensive agency management system with client management, project tracking, and team collaboration tools.",
     image: "/images/project_1.png",
-    tags: ["React", "Node.js", "MongoDB", "Stripe"],
+    tags: ["React", "Tailwind"],
     link: "https://github.com",
     demo: "https://agency-website-b4sa.vercel.app/",
     featured: true,
-    category: "fullstack",
-  },
-
-  
-  {
-    id: 4,
-    title: "Analytics Dashboard",
-    description:
-      "Interactive analytics with data visualization and real-time metrics.",
-    image: "/images/project_3.jpg",
-    tags: ["React", "Chart.js", "API"],
-    link: "https://github.com",
-    demo: "https://demo.com",
-    featured: false,
     category: "frontend",
   },
   {
-    id: 5,
-    title: "Analytics Dashboard",
+    id: 4,
+    title: "Blog Platform",
     description:
-      "Interactive analytics with data visualization and real-time metrics.",
+      "A dynamic blogging platform with article management, category filtering, and user-friendly content creation.",
     image: "/images/project_5.png",
     tags: ["React", "Chart.js", "API"],
     link: "https://github.com",
     demo: "https://blog-website-tci1.vercel.app/",
-    featured: false,
-    category: "frontend",
-  },
-  {
-    id: 6,
-    title: "Analytics Dashboard",
-    description:
-      "Interactive analytics with data visualization and real-time metrics.",
-    image: "/images/project_3.jpg",
-    tags: ["React", "Chart.js", "API"],
-    link: "https://github.com",
-    demo: "https://demo.com",
-    featured: false,
-    category: "frontend",
-  },
-  {
-    id: 7,
-    title: "Analytics Dashboard",
-    description:
-      "Interactive analytics with data visualization and real-time metrics.",
-    image: "/images/project_3.jpg",
-    tags: ["React", "Chart.js", "API"],
-    link: "https://github.com",
-    demo: "https://demo.com",
-    featured: false,
-    category: "frontend",
-  },
-  {
-    id: 8,
-    title: "Analytics Dashboard",
-    description:
-      "Interactive analytics with data visualization and real-time metrics.",
-    image: "/images/project_3.jpg",
-    tags: ["React", "Chart.js", "API"],
-    link: "https://github.com",
-    demo: "https://demo.com",
     featured: false,
     category: "frontend",
   },
