@@ -47,4 +47,16 @@ export const projects = [
     featured: false,
     category: "frontend",
   },
+  {
+    id: 5,
+    title: "Library Management System",
+    description:
+      "A comprehensive library management system for cataloging, borrowing, and tracking library resources efficiently.",
+    image: "/images/project6.png",
+    tags: ["Laravel", "Bootstrap", "MySQL"],
+    link: "https://github.com",
+    demo: "https://blog-website-tci1.vercel.app/",
+    featured: false,
+    category: "backend",
+  },
 ];
